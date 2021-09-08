@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BOUNTY PRO\\Documents\\GitHub\\titaniumpassback\\titaniumpassback\\titaniumpassback\\titaniumpassback.csproj",
+      "projectUniqueName": "C:\\Users\\BOUNTY PRO\\Documents\\GitHub\\titaniumpassback\\titaniumpassback\\titaniumpassback.csproj",
       "projectName": "titaniumpassback",
-      "projectPath": "C:\\Users\\BOUNTY PRO\\Documents\\GitHub\\titaniumpassback\\titaniumpassback\\titaniumpassback\\titaniumpassback.csproj",
+      "projectPath": "C:\\Users\\BOUNTY PRO\\Documents\\GitHub\\titaniumpassback\\titaniumpassback\\titaniumpassback.csproj",
       "packagesPath": "C:\\Users\\BOUNTY PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BOUNTY PRO\\Documents\\GitHub\\titaniumpassback\\titaniumpassback\\titaniumpassback\\obj\\",
+      "outputPath": "C:\\Users\\BOUNTY PRO\\Documents\\GitHub\\titaniumpassback\\titaniumpassback\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BOUNTY PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
