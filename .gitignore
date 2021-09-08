@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 *.vs
-*.vs/titaniumpassback/v16/.suo
+*.vs\titaniumpassback\v16\.suo
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
