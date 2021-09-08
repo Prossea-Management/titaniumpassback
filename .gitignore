@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 *.vs
+*.vs/titaniumpassback/v16/.suo
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -349,4 +350,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-.vs/titaniumpassback/v16/.suo
+
